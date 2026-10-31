@@ -1,0 +1,1 @@
+# Laboratorio1_MSG-Foundation-del-caso-de-uso-al-c-digo
