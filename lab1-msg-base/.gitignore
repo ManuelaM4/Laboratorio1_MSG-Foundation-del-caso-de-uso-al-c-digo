@@ -1,0 +1,16 @@
+# Salida de Maven: nunca se sube al repositorio
+target/
+
+# Archivos de los IDE
+.idea/
+*.iml
+.vscode/
+nbproject/
+nbactions.xml
+.settings/
+.classpath
+.project
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
